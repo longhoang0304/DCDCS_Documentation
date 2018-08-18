@@ -17,10 +17,14 @@ This repository contains a detail documents for capstone projects
 ### Requirement
 - Microsoft Word 2007+
 - Microsoft Power Point 2007+
+- Any PDF Reader
 
 ### Document Structure
 - Capstone Project Document - Detail document
 - Summary - Summarized document
+- Task Sheet - Table contains all task of project and who did that
+- Meeting Minute - A report that record about each team meeting information at end of the week. Contains what have been done in a week and planning for next week.
+- Paper - Including reseach paper and poster
 - Diagrams - Diagrams for detail document
   - XML - XML file for draw.io
   - Images - Exported image from XML
